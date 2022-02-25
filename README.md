@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Hi, I'm [@ryutaro-kimura](https://twitter.com/take_cantik)!!
+
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryutaro-kimura&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryutaro-kimura&layout=compact&show_icons=true&theme=onedark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryutaro-kimura&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **ryutaro-kimura/ryutaro-kimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
