@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi, I'm [@ryutaro-kimura](https://twitter.com/take_cantik)!!
+### Hi, I'm [@ryutaro-kimura](https://www.linkedin.com/in/%E9%BE%8D%E5%A4%AA%E9%83%8E-%E6%9C%A8%E6%9D%91-5610a5226/)!!
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryutaro-kimura&theme=onedark&show_icons=ture" />
