@@ -8,11 +8,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryutaro-kimura&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-### My Info
-#### LinkedIn [@木村龍太郎](https://www.linkedin.com/in/ryutaro-kimura-5610a5226/)
-#### Facebook [@木村龍太郎](https://www.facebook.com/ryutaro.kimura.1238)
-#### Twitter [@ryutaro_1019](https://twitter.com/ryutaro_1019)
-
 <!--
 **ryutaro-kimura/ryutaro-kimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
